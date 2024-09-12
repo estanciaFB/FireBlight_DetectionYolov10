@@ -35,7 +35,7 @@ cv2.error: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\highgu
 `sudo apt-get install -y libgl1-mesa-glx`
 
 `sudo apt-get install -y libqt5gui5 libqt5webkit5 libqt5test5 libqt5widgets5 libqt5x11extras5 libcanberra-gtk-module`
-=======
+
 # Setup to run our implementation
 
 ### We recommend use a conda environment:
