@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Setup to run our implementation
 
 ### We recommend use a conda environment:
