@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+supervision==0.22.0
+inference==0.17.1
+=======
+supervision==0.22.0
+inference==0.17.1
+>>>>>>> a6f8be59f3aabedc51739f18d978192a9c985c39
+opencv-contrib-python==4.10.0.84

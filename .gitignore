@@ -1,0 +1,2 @@
+# ignore all the downloaded pre-trained models, due to large size
+**/weights/*
