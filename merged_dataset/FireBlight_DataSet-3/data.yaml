@@ -1,0 +1,12 @@
+names:
+- -FireBlight-
+nc: 1
+roboflow:
+  license: Private
+  project: fireblight_dataset
+  url: https://universe.roboflow.com/phone-5kzyk/fireblight_dataset/dataset/3
+  version: 3
+  workspace: phone-5kzyk
+test: C:\Users\Fer\Desktop\FireBlight_DetectionYolov10\merged_dataset\FireBlight_DataSet-3\test\images
+train: C:\Users\Fer\Desktop\FireBlight_DetectionYolov10\merged_dataset\FireBlight_DataSet-3\train\images
+val: C:\Users\Fer\Desktop\FireBlight_DetectionYolov10\merged_dataset\FireBlight_DataSet-3\valid\images
